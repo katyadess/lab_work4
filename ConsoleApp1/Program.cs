@@ -27,7 +27,7 @@ public Cylinder(double radius, double height)
 
             changed = true;
         }
-        if (Height & <= 0)
+        if (Height <= 0)
 {
             Height = 10;
             changed = true;
